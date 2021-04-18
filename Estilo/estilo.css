@@ -1,0 +1,26 @@
+.body{
+    background-color: rgba(5, 7, 117, 0.856); 
+}
+#Primero{
+    background-color: rgba(165, 161, 161, 0.897);
+    height: 600px;
+}
+#Primero img{
+    background-color: rgba(255, 255, 255, 0.925);
+    margin-top: 15%;
+    color: white;
+}
+#PrimeroB{
+    background-color: rgba(165, 161, 161, 0.897);
+    height: 600px;
+    
+}
+#demo{
+    margin-top: 2%;
+}
+#jumbi{
+    background: "1348797.jpg";
+}
+.col-lg-3 h3{
+    color: white;
+}
